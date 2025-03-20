@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\",
+  "WorkspaceRootPath": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|d:\\luis projects\\pruebas tecnicas\\pruebaimagineapps\\controllers\\solicitudrecursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|solutionrelative:controllers\\solicitudrecursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|d:\\luis projects\\pruebas tecnicas\\pruebaimagineapps\\views\\solicitudrecurso\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|solutionrelative:views\\solicitudrecurso\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|d:\\luis projects\\pruebas tecnicas\\pruebaimagineapps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|d:\\luis projects\\pruebas tecnicas\\pruebaimagineapps\\aplicacion web .net mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|d:\\luis projects\\pruebas tecnicas\\pruebaimagineapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|d:\\luis projects\\pruebas tecnicas\\pruebaimagineapps\\aplicacion web .net mvc\\controllers\\solicitudrecursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|solutionrelative:controllers\\solicitudrecursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|d:\\luis projects\\pruebas tecnicas\\pruebaimagineapps\\aplicacion web .net mvc\\views\\solicitudrecurso\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|solutionrelative:views\\solicitudrecurso\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|d:\\luis projects\\pruebas tecnicas\\pruebaimagineapps\\aplicacion web .net mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|d:\\luis projects\\pruebas tecnicas\\pruebaimagineapps\\models\\solicitudrecurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|d:\\luis projects\\pruebas tecnicas\\pruebaimagineapps\\aplicacion web .net mvc\\models\\solicitudrecurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F38CFB-8BAB-49A8-82CA-505548068E7D}|PruebaImagineApps.csproj|solutionrelative:models\\solicitudrecurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,30 +30,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Crear.cshtml",
-              "DocumentMoniker": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Views\\SolicitudRecurso\\Crear.cshtml",
+              "DocumentMoniker": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\Views\\SolicitudRecurso\\Crear.cshtml",
               "RelativeDocumentMoniker": "Views\\SolicitudRecurso\\Crear.cshtml",
-              "ToolTip": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Views\\SolicitudRecurso\\Crear.cshtml",
+              "ToolTip": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\Views\\SolicitudRecurso\\Crear.cshtml",
               "RelativeToolTip": "Views\\SolicitudRecurso\\Crear.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T04:18:55.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T04:18:55.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SolicitudRecursoController.cs",
-              "DocumentMoniker": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Controllers\\SolicitudRecursoController.cs",
+              "DocumentMoniker": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\Controllers\\SolicitudRecursoController.cs",
               "RelativeDocumentMoniker": "Controllers\\SolicitudRecursoController.cs",
-              "ToolTip": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Controllers\\SolicitudRecursoController.cs",
+              "ToolTip": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\Controllers\\SolicitudRecursoController.cs",
               "RelativeToolTip": "Controllers\\SolicitudRecursoController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAwwEgAAAAQAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEgAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T04:24:56.135Z",
               "EditorCaption": ""
@@ -62,37 +61,35 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "SolicitudRecurso.cs",
-              "DocumentMoniker": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Models\\SolicitudRecurso.cs",
+              "DocumentMoniker": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\Models\\SolicitudRecurso.cs",
               "RelativeDocumentMoniker": "Models\\SolicitudRecurso.cs",
-              "ToolTip": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Models\\SolicitudRecurso.cs",
+              "ToolTip": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\Models\\SolicitudRecurso.cs",
               "RelativeToolTip": "Models\\SolicitudRecurso.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T04:11:04.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T04:11:04.06Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Program.cs",
+              "DocumentMoniker": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Program.cs",
+              "ToolTip": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T01:52:16.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T01:52:16.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\appsettings.json",
+              "DocumentMoniker": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\appsettings.json",
+              "ToolTip": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-20T01:46:22.958Z",
               "EditorCaption": ""

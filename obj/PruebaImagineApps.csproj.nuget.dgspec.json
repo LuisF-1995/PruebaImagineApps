@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\PruebaImagineApps.csproj": {}
+    "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\PruebaImagineApps.csproj": {}
   },
   "projects": {
-    "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\PruebaImagineApps.csproj": {
+    "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\PruebaImagineApps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\PruebaImagineApps.csproj",
+        "projectUniqueName": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\PruebaImagineApps.csproj",
         "projectName": "PruebaImagineApps",
-        "projectPath": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\PruebaImagineApps.csproj",
+        "projectPath": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\PruebaImagineApps.csproj",
         "packagesPath": "C:\\Users\\luis-\\.nuget\\packages\\",
-        "outputPath": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\obj\\",
+        "outputPath": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luis-\\AppData\\Roaming\\NuGet\\NuGet.Config",

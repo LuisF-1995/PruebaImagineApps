@@ -17,71 +17,71 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PruebaImagineApps
 build_property.RootNamespace = PruebaImagineApps
-build_property.ProjectDir = D:\Luis Projects\Pruebas Tecnicas\PruebaImagineApps\
+build_property.ProjectDir = D:\Luis Projects\Pruebas Tecnicas\PruebaImagineApps\Aplicacion web .NET MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Luis Projects\Pruebas Tecnicas\PruebaImagineApps
+build_property.MSBuildProjectDirectory = D:\Luis Projects\Pruebas Tecnicas\PruebaImagineApps\Aplicacion web .NET MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Areas/Identity/Pages/Account/Logout.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Views/Home/Index.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Views/Home/Privacy.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Views/Shared/Error.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Views/Shared/_LoginPartial.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Views/SolicitudRecurso/Crear.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Views/SolicitudRecurso/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkUmVjdXJzb1xDcmVhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Views/_ViewImports.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Views/_ViewStart.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Views/Shared/_Layout.cshtml]
+[D:/Luis Projects/Pruebas Tecnicas/PruebaImagineApps/Aplicacion web .NET MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3arxv533o5

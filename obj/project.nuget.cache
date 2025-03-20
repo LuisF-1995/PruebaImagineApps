@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOBoUpVX4A4=",
+  "dgSpecHash": "FsKM4I3fH+U=",
   "success": true,
-  "projectFilePath": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\PruebaImagineApps.csproj",
+  "projectFilePath": "D:\\Luis Projects\\Pruebas Tecnicas\\PruebaImagineApps\\Aplicacion web .NET MVC\\PruebaImagineApps.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luis-\\.nuget\\packages\\anglesharp\\0.17.0\\anglesharp.0.17.0.nupkg.sha512",
     "C:\\Users\\luis-\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
